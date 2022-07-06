@@ -1,1 +1,7 @@
-Catering Website
+Catering Website [ Website Preview ] 
+
+![Uploading image.png…]()
+
+![image](https://user-images.githubusercontent.com/77886136/177640992-100f1b38-d84f-4b4b-b51d-081274cbe805.png)
+![image](https://user-images.githubusercontent.com/77886136/177641044-f23372cc-7bdd-44aa-9f9f-cdad0aeebaa1.png)
+![image](https://user-images.githubusercontent.com/77886136/177641050-0544633f-cf70-49ae-b863-4c0a2462cce9.png)
